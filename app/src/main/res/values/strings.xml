@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comp 437 - Quiz 1</string>
+    <string-array name="options">
+        <item>Canada</item>
+        <item>Russia</item>
+        <item>US</item>
+        <item>China</item>
+
+    </string-array>
+
+    <string name="question">what is the largest country in the world (by area)?</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+
+</resources>
